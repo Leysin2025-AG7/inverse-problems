@@ -1,3 +1,5 @@
+"""Thanks to Tim Roith and Samira Kabri at DESY who helped creating an earlier version of this notebook."""
+
 import numpy as np
 import skimage as ski
 
