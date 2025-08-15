@@ -246,8 +246,8 @@ class lscg(optimizer):
 
 
 class lv:
-    def __init__(self, l):
-        self.l = l
+    def __init__(self, k):
+        self.l = k
 
     def __len__(self):
         return len(self.l)
